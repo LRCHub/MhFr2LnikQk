@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "チャイムの音で",
+  "base_artist": "ayaho",
+  "createdAt": "2025-12-11T14:50:28.986074Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "チャイムの音で",
+      "artist": "ayaho",
+      "has_synced": true,
+      "path": "select/01_チャイムの音で_ayaho.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "チャイムの音で",
+      "artist": "ayaho",
+      "has_synced": false,
+      "path": "select/pl_01_チャイムの音で_ayaho.txt"
+    }
+  ]
+}
